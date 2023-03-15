@@ -43346,10 +43346,19 @@
     {
         "title": "Hedge maze in Cyherbia Botanical Park, Cyprus",
         "caption": "A beautiful labyrinth",
-        "subtitle": null,
+        "subtitle": "Pi Day",
         "copyright": "© Tpopova/Getty Images",
-        "description": null,
+        "description": "Today we're observing Pi Day with a bird's-eye view of the hedge maze at Cyherbia Botanical Park near Ayia Napa in Cyprus. It's the day we celebrate the mathematical constant π. Today's date, March 14, was chosen because when expressed numerically, it matches the first three digits of pi: 3.14. You remember pi from geometry class—it's the ratio of the distance around a circle to the distance across it. Pi is used to compute a circle's area and circumference. The circular labyrinth at the Cyherbia Botanical Park brings the ratio to life and is a must-visit for people who love to solve puzzles. If you're ready for a challenge, give it a go.",
         "date": "2023-03-14",
         "path": "US/images/2023-03-14.jpg"
+    },
+    {
+        "title": "Agüero, Spain",
+        "caption": "A hidden gem",
+        "subtitle": null,
+        "copyright": "© Andrea Comi/Getty Images",
+        "description": null,
+        "date": "2023-03-15",
+        "path": "US/images/2023-03-15.jpg"
     }
 ]
