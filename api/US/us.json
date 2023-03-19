@@ -43382,10 +43382,19 @@
     {
         "title": "Gamboa Crater, Mars",
         "caption": "Out of this world",
-        "subtitle": null,
+        "subtitle": "Gamboa Crater, Mars",
         "copyright": "© NASA/JPL-Caltech/University of Arizona",
-        "description": null,
+        "description": "It would be pretty tough to live on Mars. It's cold, dry, and the conditions are harsh. The planet's average temperature is about –81 degrees Fahrenheit, but it can get as low as –243 at the poles. But with many canyons, extinct volcanoes, and ice caps, it's beautiful to look at from afar. Most photos of the red planet highlight its rusty color, caused by high levels of iron oxide.\nThis photo from the Mars Reconnaissance Orbiter is an enhanced-color view of sand dunes and ripples in the Gamboa Crater. 'False color' technology was used to reveal subtle variations of the Martian surface that our eyes wouldn't be able to see on their own. These added details show the effects of wind inside the crater, providing a glimpse of the spectacularly complex features of this planet.",
         "date": "2023-03-18",
         "path": "US/images/2023-03-18.jpg"
+    },
+    {
+        "title": "Barn owl, England",
+        "caption": "Whooo's the wisest of them all?",
+        "subtitle": null,
+        "copyright": "© Ondrej Prosicky/Getty Images",
+        "description": null,
+        "date": "2023-03-19",
+        "path": "US/images/2023-03-19.jpg"
     }
 ]
