@@ -43400,10 +43400,19 @@
     {
         "title": "Crocus flowers",
         "caption": "Hello spring!",
-        "subtitle": null,
+        "subtitle": "Spring equinox",
         "copyright": "© Raimund Linke/Getty Images",
-        "description": null,
+        "description": "Every year around March 20, the sun aligns with the Earth's equator, and day and night are about equal in length. In the Northern Hemisphere, this is called the spring or vernal equinox, and it marks the astronomical exit of winter into the brighter, warmer springtime. From now on, we can enjoy days that are longer than nights. And a sharp eye might spot a flowering crocus, like the ones in today's image, among the first flowers to bloom every year.\nThe tilting of Earth on its axis makes the equinox a global event. In Japan, spring equinox is a national holiday called Shunbun no Hi, while in Iranian culture, it is the start of the new year, called Nowruz. However, in the Southern Hemisphere, autumn is just beginning—so send some sweaters to your Argentinian friends.",
         "date": "2023-03-20",
         "path": "US/images/2023-03-20.jpg"
+    },
+    {
+        "title": "Colorful pastel chalk",
+        "caption": "What's your favorite color?",
+        "subtitle": null,
+        "copyright": "© Stephen Shepherd/plainpicture",
+        "description": null,
+        "date": "2023-03-21",
+        "path": "US/images/2023-03-21.jpg"
     }
 ]
