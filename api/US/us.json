@@ -43706,10 +43706,19 @@
     {
         "title": "Stuttgart Public Library, Germany",
         "caption": "A book lover's paradise",
-        "subtitle": null,
+        "subtitle": "World Book Day",
         "copyright": "© Axel Brunst/Tandem Stills + Motion",
-        "description": null,
+        "description": "'There is no friend as loyal as a book,' Ernest Hemingway once wrote. On World Book Day, we are honoring these loyal friends in the German city of Stuttgart, where a huge monolithic cube is both a modern landmark and home to the city library. Opened in 2011, this striking building was designed by architect Eun Young Yi to be a calming, meditative space in a bustling city. Its interior is white, with splashes of color provided by the books that line its walls.\nWorld Book Day was set up by UNESCO in 1995 to celebrate recreational reading. It also marks the start of National Library Week here in the US, so there's no better time to head to your local library to find your next great 'friend' to take you on new adventures.",
         "date": "2023-04-23",
         "path": "US/images/2023-04-23.jpg"
+    },
+    {
+        "title": "Old underground cellar, Bavaria, Germany",
+        "caption": "Beneath the woods",
+        "subtitle": null,
+        "copyright": "© Andreas Zerndl/Getty Images",
+        "description": null,
+        "date": "2023-04-24",
+        "path": "US/images/2023-04-24.jpg"
     }
 ]
