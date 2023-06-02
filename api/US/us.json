@@ -44057,10 +44057,19 @@
     {
         "title": "Aerial image of the Great Barrier Reef, Australia",
         "caption": "Blue as far as the eye can see",
-        "subtitle": null,
+        "subtitle": "World Reef Awareness Day",
         "copyright": "© AirPano LLC/Amazing Aerial Agency",
-        "description": null,
+        "description": "The Great Barrier Reef runs for 1,430 miles along Australia's northeastern coast, providing a home for thousands of species, including more than 1,500 types of fish. Here, you'll find whales, dolphins, turtles, sharks, dugongs, and algae, all living together in a delicate ecosystem that relies on the coral reef. Sadly, climate change and pollution threaten this iconic site, the largest reef in the world. On June 1, we observe World Reef Awareness Day to remind people of the importance of safeguarding coral reefs, which provide food and shelter for about 25% of all marine life, to maintain the balance of nature.",
         "date": "2023-06-01",
         "path": "US/images/2023-06-01.jpg"
+    },
+    {
+        "title": "Gemsbok (Oryx gazella) in sand dunes, Namibia",
+        "caption": "Hello? Anybody else out here?",
+        "subtitle": null,
+        "copyright": "© Sergey Gorshkov/Minden",
+        "description": null,
+        "date": "2023-06-02",
+        "path": "US/images/2023-06-02.jpg"
     }
 ]
